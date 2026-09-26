@@ -1,0 +1,7 @@
+python-dotenv
+google-genai
+langfuse
+openinference-instrumentation-google-genai
+numpy
+pymupdf4llm
+streamlit
