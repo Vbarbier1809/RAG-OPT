@@ -41,7 +41,7 @@ Le but du projet est pédagogique : chaque étape du pipeline tient dans un fich
 ### Installation
 
 ```bash
-cd rag-lab
+cd RAG-OPT
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

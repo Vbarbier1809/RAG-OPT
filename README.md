@@ -29,7 +29,7 @@ Chaque question est tracée dans **Langfuse** (recherche, prompt, réponse, late
 ## Installation
 
 ```bash
-git clone <url-du-repo> && cd rag-lab
+git clone https://github.com/Vbarbier1809/RAG-OPT.git && cd RAG-OPT
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # puis renseigne tes clés Gemini et Langfuse
